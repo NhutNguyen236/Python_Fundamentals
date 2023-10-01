@@ -1,0 +1,5 @@
+so_luong = int(input("Số lượng:"))
+don_gia = int(input("Đơn giá:"))
+ket_qua = int(so_luong) * int(don_gia)
+# print("Thành tiền = " + str(so_luong) + " * " + str(don_gia) + " = " + str(ket_qua))
+print("Thành tiền {} * {:,} = {:,}".format(so_luong, don_gia, ket_qua))
