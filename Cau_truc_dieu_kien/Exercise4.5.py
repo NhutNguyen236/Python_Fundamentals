@@ -24,6 +24,8 @@ elif loai_xe == 7:
         tien_di_chuyen = 19600 * so_km
     elif so_km >= 31:
         tien_di_chuyen = 17100 * so_km 
+else:
+    print("Loại xe ko tồn tại")
     
 print("Tiền chờ: {:,}".format(tien_cho))
 print("Tiền di chuyển: {:,.1f}".format(tien_di_chuyen))
