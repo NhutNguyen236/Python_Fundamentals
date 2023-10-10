@@ -1,0 +1,8 @@
+danh_sach_phim = [
+    'Dòng chảy của nước',
+    'Đảo độc đắc',
+    'Tiểu đội gấu bay',
+    'Âm lượng hủy diệt',
+    'Búp bê gọi hồn',
+    'Tro tàn rực rỡ'
+]

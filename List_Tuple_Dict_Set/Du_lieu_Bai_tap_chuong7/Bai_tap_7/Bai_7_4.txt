@@ -1,0 +1,12 @@
+tu_dien = {
+    'man': ['đàn ông', 'nam nhi'],
+    'woman': ['đàn bà', 'phụ nữ'],
+    'sun': ['mặt trời'],
+    'moon': ['mặt trăng'],
+    'earth': ['trái đất', 'địa cầu'],
+    'mountain': ['núi', 'ngọn núi'],
+    'table': ['cái bàn'],
+    'ball': ['quả bóng'],
+    'flower': ['hoa', 'bông hoa'],
+    'fan': ['cái quạt']
+}

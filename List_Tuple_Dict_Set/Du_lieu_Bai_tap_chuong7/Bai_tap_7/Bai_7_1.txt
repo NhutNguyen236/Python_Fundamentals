@@ -1,0 +1,1 @@
+danh_sach_thu = ['ant', 'bear', 'cat', 'dog', 'elephant', 'fish', 'goat', 'hippo']
